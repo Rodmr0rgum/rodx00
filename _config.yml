@@ -21,7 +21,7 @@ search: true
 logo: "/assets/images/rod3.png"
 url: "https://rodx00.io"
 locale                   : "en-US"
-title                    : "rodx00.io"
+#title                    : "rodx00.io"
 title_separator          : "-"
 name                     : "rodx00"
 breadcrumbs              : true # true, false (default)
@@ -29,7 +29,7 @@ breadcrumbs              : true # true, false (default)
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 
