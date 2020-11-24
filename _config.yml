@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 title: rodx00
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -24,6 +25,12 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 logo: "/assets/images/rod3.png"
+url: "https://rodx00.io"
+locale                   : "en-US"
+title                    : "rodx00.io"
+title_separator          : "-"
+name                     : "rodx00"
+description              : "Posts about security, CTFs and networking"
 
 # Build settings
 markdown: kramdown
