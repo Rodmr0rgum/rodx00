@@ -28,12 +28,9 @@ name                     : "rodx00"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+minimal_mistakes_skin: "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+
 
 include:
   - _pages
@@ -49,6 +46,12 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Outputting
+permalink: /:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
