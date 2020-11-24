@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#title: rodx00
-email:
+ 
 description: "Posts about security, CTFs and networking"
 search: true
 logo: "/assets/images/rod3.png"
 url: "https://rodx00.io"
 locale                   : "en-US"
-#title                    : "rodx00.io"
+title                    : "rodx00.io"
 title_separator          : "-"
 name                     : "rodx00"
 breadcrumbs              : true # true, false (default)
