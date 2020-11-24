@@ -27,7 +27,7 @@ search: true
 logo: "/assets/images/rod3.png"
 url: "https://rodx00.io"
 locale                   : "en-US"
-title                    : "rodx00.io"
+title                    : ""
 title_separator          : "-"
 name                     : "rodx00"
 description              : "Posts about security, CTFs and networking"
