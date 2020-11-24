@@ -24,6 +24,7 @@ locale                   : "en-US"
 title                    : "rodx00.io"
 title_separator          : "-"
 name                     : "rodx00"
+breadcrumbs              : true # true, false (default)
 
 # Build settings
 markdown: kramdown
