@@ -27,6 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -60,11 +61,9 @@ plugins:
 author:
   name   : "rodx00"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Security Peruvian Stuff."
+  bio    : "System Administrator,CTF Player/OSCP"
+  location : "Lima/Perú"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/0xr0d/"
