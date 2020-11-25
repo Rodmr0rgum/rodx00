@@ -27,7 +27,7 @@ title_separator          : "-"
 name                     : "rodx00"
 description: "Posts about security, CTFs and networking"
 search: true
-url                      : "https://rodx00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rodmr0rgum.github.io/rodx00" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 #repository               : "s4vitar/s4vitar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
